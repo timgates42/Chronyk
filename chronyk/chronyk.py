@@ -766,7 +766,7 @@ class ChronykDelta:
             The maximum amount of units to use.
 
             1: "2 hours"
-            4: "4 days, 2 hours, 5 minuts and 46 seconds"
+            4: "4 days, 2 hours, 5 minutes and 46 seconds"
 
         This method ignores the sign of the amount of time (that rhimes).
         """
